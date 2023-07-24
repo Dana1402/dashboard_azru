@@ -1,0 +1,6 @@
+/prop_mapbox
+/russia_geojson_wgs84.geojson
+.idea/
+*.log
+*.pot
+*.pyc
